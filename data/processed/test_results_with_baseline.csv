@@ -1,0 +1,8 @@
+Source config,Model,MAE,RMSE,R2,% improvement vs baseline MAE,Best params
+Persistence baseline,-,0.0991,0.1229,0.3346,0.0,-
+H3-only,Ridge,0.6488,0.6891,-19.9133,-554.54,{'ridge__alpha': 0.1}
+H3-only,Random Forest,0.9183,1.0217,-44.9655,-826.47,"{'max_depth': 3, 'n_estimators': 400}"
+H5-only,Ridge,0.1269,0.1583,-0.1037,-28.03,{'ridge__alpha': 0.1}
+H5-only,Random Forest,0.2023,0.2412,-1.5625,-104.11,"{'max_depth': None, 'n_estimators': 400}"
+Combined,Ridge,0.1083,0.1311,0.2431,-9.31,{'ridge__alpha': 1.0}
+Combined,Random Forest,0.1739,0.2164,-1.0617,-75.42,"{'max_depth': 5, 'n_estimators': 400}"

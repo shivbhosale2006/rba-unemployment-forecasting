@@ -1,0 +1,9 @@
+,date_col,var_1,var_2,var_3,var_4,var_5
+Title,Title,Private dwelling approvals ,Private dwelling approvals trend,Private non-residential building approvals,Consumer sentiment,Business conditions
+Description,Description,Private dwelling approvals,Private dwelling approvals; Trend,Private non-residential building approvals; Current price,Westpac-Melbourne Institute consumer sentiment index,NAB business conditions index deviation from average
+Frequency,Frequency,Monthly,Monthly,Monthly,Monthly,Monthly
+Type,Type,Seasonally adjusted,Trend,Original,Seasonally adjusted,Seasonally adjusted
+Units,Units,'000,'000,$ million,Index,Percentage points
+Source,Source,ABS,ABS,ABS,MI,NAB
+Publication date,Publication date,31-Jul-2026,31-Jul-2026,31-Jul-2026,16-Jul-2026,16-Jul-2026
+Series ID,Series ID,GISPSDA,GISDWPRITR,GISPSNBA,GICWMICS,GICNBC
